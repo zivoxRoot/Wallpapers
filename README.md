@@ -9,8 +9,6 @@ The wallpaper selector will only show you the JPG files in **./**.
 
 **./unused/** -> folder for cool wallpaper you want to keep but not actively use.
 
-**./current_wallpaper/** -> (DO NOT EDIT MANUALLY!) The wallpaper (and its icon) currently in use, it is managed by **$HOME/.config/rofi/wallpaper-select/wallpaper-select.sh**, if you want more informations go to **$HOME/.config/rofi/wallpaper-select/README.md**
-
 ## Why only JPG ?
 The current config only supports JPG files for multiple reasons :
 
