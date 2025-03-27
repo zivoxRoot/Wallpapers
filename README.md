@@ -1,7 +1,7 @@
 # Wallpapers
 
 This folder contains all the wallpapers for the config, it is originally meant to be stored in $HOME/Pictures/wallpapers/
-The wallpaper selector will only show you the JPG files in **./**.
+The wallpaper selector will only show you the JPG files in **./**, so you can back up your liked wallpapers that you don't want to use right now in **./unused/**.
 
 ---
 
