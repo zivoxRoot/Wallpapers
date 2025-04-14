@@ -11,6 +11,7 @@ You can back up your liked wallpapers that you don't want to use right now in **
 - All wallpapers must have a descriptive name (no 'Img-1', 'Img-2', etc...)
 - The first letter in uppercase (e.g. 'Wall.jpg', and no 'wall.jpg')
 - Wallpapers' name with multiple words must be separated with a dash (e.g. 'Dark-wall', and no 'DarkWall')
+- Put a multiple of 6 in the "currently used" wallpapers, because they are shown by 6 in the wallpaper selector
 
 ## File structure
 
