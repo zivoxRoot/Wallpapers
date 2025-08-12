@@ -6,6 +6,17 @@ You can back up your liked wallpapers that you don't want to use right now in **
 
 ---
 
+! It now supports PNG, JPG, and GIF files
+> Convert mp4 to gif :
+```bash
+ffmpeg \
+  -i my_wallpaper.mp4 \
+  -r 15 \
+  -vf scale=512:-1 \
+  -ss 00:00:03 -to 00:00:06 \
+  my_wallpaper.gif
+```
+
 ## Conventions
 
 - All wallpapers must have a descriptive name (no 'Img-1', 'Img-2', etc...)
